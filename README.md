@@ -13,7 +13,7 @@
 >
 > 🇬🇧 I'm actively improving my English (currently at A2-B1 level) 📚
 >
-> 📫 How to reach me: **твій_email@gmail.com** ✉️
+> 📫 How to reach me: **svarkovskii722@gmail.com** ✉️
 >
 > 🎮 Fun fact: When I'm not coding, I love playing video games and exploring PC hardware 🕹️
 
