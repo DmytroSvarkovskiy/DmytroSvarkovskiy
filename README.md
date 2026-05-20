@@ -23,8 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitro-svarkovskiy)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dmytro_Svarkovskyi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svarkovskii722@gmail.com)
-
+[![DOU](https://img.shields.io/badge/DOU_Profile-FF5C00?style=for-the-badge)](https://dou.ua/users/dmitro-svarkovskiy/)
 ---
 
 <div align="center">
