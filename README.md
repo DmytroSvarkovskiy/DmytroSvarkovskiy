@@ -36,15 +36,11 @@
 **Frontend & State Management:**
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux" />
-
 <br><br>
-
 **Styling:**
 <br>
 <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents" />
-
 <br><br>
-
 **Development Tools:**
 <br>
 <img src="https://skillicons.dev/icons?i=vscode,postman,docker,git,github" />
