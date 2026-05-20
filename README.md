@@ -48,13 +48,11 @@
 <br>
 ![SWR](https://img.shields.io/badge/SWR-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socketdotio&logoColor=white)
-
 <br><br>
 
 **Styling:**
 <br>
 <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,scss" />
-
 <br><br>
 
 **Development Tools:**
